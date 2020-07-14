@@ -1,0 +1,24 @@
+{
+  "service": {
+    "subscrNo": 50000009,
+    "subscrNoResets": 0,
+    "accountNo": 50000009,
+    "partyId": 10000000000009,
+    "msisdn": "48668387295",
+    "serviceStatusId": 1,
+    "serviceStatus": "Aktywny",
+    "tariffContType": "POSTPAID",
+    "tariffVoiceData": "VOICE",
+    "rootServiceKind": "TELCO",
+    "legalStatusId": 1,
+    "legalStatus": "Osoba fizyczna będąca obywatelem polskim",
+    "marketName": "Play",
+    "admin1": {},
+    "admin2": {},
+    "admin3": {},
+    "admin4": {},
+    "admin5": {},
+    "firstName": "Ailleron",
+    "lastName": "48668387295"
+  }
+}

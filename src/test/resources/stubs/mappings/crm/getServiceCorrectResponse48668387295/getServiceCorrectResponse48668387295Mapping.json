@@ -1,0 +1,13 @@
+{
+  "request": {
+    "url": "/ssoauth/v2?userName=strozyp&systemName=test&msisdn=48668387295",
+    "method": "GET"
+  },
+  "response": {
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "status": 200,
+    "bodyFileName": "getServiceCorrectResponse48668387295Response.json"
+  }
+}

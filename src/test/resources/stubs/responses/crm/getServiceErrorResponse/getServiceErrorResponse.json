@@ -1,0 +1,5 @@
+{
+  "exceptionClass": "ResourceException",
+  "code": "4.1",
+  "message": "Could not execute Cassandra query"
+}

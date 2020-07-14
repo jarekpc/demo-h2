@@ -1,0 +1,15 @@
+package com.example.demoh2.config;
+
+import lombok.Data;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Component;
+
+@Component
+@ConfigurationProperties(prefix = "support")
+@Data
+public class Support {
+
+    private String applicationName;
+
+    private String email;
+}
